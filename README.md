@@ -7,6 +7,6 @@ The system includes features such as => Sign Up, Login, Forget Password, Deposit
 The project uses Object-Oriented Programming (OOP) principles and a layered architecture that separates models, services, service implementations, and global validation utilities. It also applies input validation to ensure that user inputs are valid before processing operations.
 
 The main goal of the project is to practice Java programming, OOP concepts, interfaces, exception handling, input validation, and clean code organization while building a simple digital wallet application.
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## VehicleRegistration ==========> Still working on it
