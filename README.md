@@ -1,4 +1,4 @@
-##E-Wallet System – Project Overview
+## E-Wallet System
 
 The E-Wallet System is a **Java-based console application** that allows users to manage their digital wallet accounts and perform basic financial transactions.
 
