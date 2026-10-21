@@ -11,4 +11,6 @@ The main goal of this project is to practice Java programming, OOP concepts, int
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## VehicleRegistration ==========> Still working on it
+## VehicleRegistration
+
+A console-based Java application designed to manage vehicle registrations efficiently. The system supports registering, searching, updating, and deleting vehicles, including cars, trucks, and motorcycles. It uses Object-Oriented Programming (OOP), Collections, Java Streams, custom exceptions, and input validation to ensure reliable data management. Additional features include owner history tracking, filtering vehicles by type, identifying expired registrations, and generating statistical reports.
